@@ -46,10 +46,6 @@ I'm passionate about backend engineering, API integrations, scalable software ar
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://wa.me/919790492859">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/>
-</a>
-
 </p>
 
 ---

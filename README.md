@@ -1,96 +1,234 @@
 <h1 align="center">Hi 👋, I'm Saran V</h1>
 
 <h3 align="center">
-🌐 Full Stack Web Developer | Passionate Problem Solver | Building Modern Web Experiences
+🚀 AI-Powered Full Stack Developer | Software Developer | Building Scalable Web & AI Applications
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Laravel+%7C+Node.js+%7C+React.js;PHP+%7C+MySQL+%7C+REST+APIs;2.8%2B+Years+of+Experience;Let's+Build+Something+Awesome!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI-Powered+Full+Stack+Developer;Software+Developer;Laravel+%7C+React+%7C+Node.js;PHP+%7C+REST+API+%7C+MySQL;Learning+AI+Agents+%7C+NestJS+%7C+Docker;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 💻 I'm a **Full Stack Web Developer** with **2.8+ years of experience** building responsive, user-friendly web applications.
-- 🚀 I enjoy turning ideas into real-world products — from POS systems to on-demand delivery platforms.
-- 🔌 I've worked with **15+ third-party integrations**, including payment gateways, delivery partners, SMS/WhatsApp APIs, and KYC providers.
-- 🤝 Open to collaborating on exciting web development and open-source projects.
-- 📚 Always exploring modern technologies and best development practices.
-- ⚡ Fun Fact: **I love solving coding challenges and building useful applications.**
+I'm a **Software Developer** with **3+ years of professional experience** building scalable business applications and solving real-world problems through software.
+
+I enjoy designing clean backend systems, integrating third-party APIs, and building modern web applications. Recently, I've been expanding my skills into **AI-powered applications**, intelligent automation, and scalable backend architecture.
+
+- 💼 Software Developer
+- 🚀 3+ Years of Professional Experience
+- 🌍 Built production-ready business applications
+- 🔗 Integrated 15+ Third-Party APIs
+- 🤖 Learning AI Engineering & Intelligent Automation
+- 📚 Passionate about Continuous Learning
+- 💡 Building practical solutions with modern technologies
 
 ---
 
-## 🌍 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/saran-v-bba83235a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="[Your Portfolio URL]">
+
+<a href="https://dev-seven-puce.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
-<a href="https://wa.me/919790492859">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+
+<a href="https://github.com/saran-bkm">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
+
+<a href="https://gitlab.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab"/>
+</a>
+
 <a href="mailto:info.2ksaran@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
+
+<a href="https://wa.me/919790492859">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/>
+</a>
+
 </p>
 
 ---
 
 # 💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,laravel,php,mysql,bootstrap,jquery,git,github,vscode,postman"/>
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react"/>
 </p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman"/>
+</p>
+
+---
+
+# 🤖 AI & Modern Technologies
+
+Currently learning and building projects with:
+
+- 🤖 AI Agents
+- 🧠 Prompt Engineering
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🔗 Model Context Protocol (MCP)
+- ⚡ n8n Automation
+- 🐳 Docker
+- 🟦 TypeScript
+- 🏗 NestJS
+- ☁️ Cloud Deployment
+- 🏛 Backend Architecture
+- 📈 System Design
+- 🧩 Microservices
+- 🔄 Workflow Automation
+- 💬 LLM Integrations
+
+---
+
+# 🚀 Professional Experience
+
+## Software Developer
+
+### Responsibilities
+
+- REST API Development
+- Backend Development
+- Full Stack Web Development
+- Database Design
+- Payment Gateway Integration
+- Third-Party API Integration
+- Performance Optimization
+- Bug Fixing & Feature Development
+- Responsive UI Development
+- Production Support
+- Code Review
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🏪 POS & Billing System
-Billing software and attendance/POS system built for a retail client, integrated with **Rista POS**, **Razorpay**, and **Paytm** for real-time order and payment processing.
 
-**Tech Stack**
+Built a complete retail POS system with attendance management, billing, reporting, and payment integration.
 
-`Laravel` `PHP` `MySQL` `jQuery`
+**Integrations**
 
-🔗 Live Demo: [Add your live demo link]
-📂 Repository: [Add your GitHub repo link]
+- Razorpay
+- Paytm
+- Rista POS
+
+**Tech**
+
+Laravel • PHP • MySQL • jQuery
 
 ---
 
 ## 🚚 On-Demand Delivery Platform
-A logistics and order-management platform integrating **Shiprocket**, **Porter**, and **Dunzo** for delivery, with **Swiggy** and **Zomato** order sync.
 
-**Tech Stack**
+Developed an order and logistics management platform integrated with multiple delivery providers.
 
-`Node.js` `Express.js` `MySQL` `REST APIs`
+**Integrations**
 
-🔗 Live Demo: [Add your live demo link]
-📂 Repository: [Add your GitHub repo link]
+- Shiprocket
+- Porter
+- Dunzo
+- Swiggy
+- Zomato
 
 ---
 
 ## 💬 WhatsApp Automation & KYC Platform
-Automated customer notifications and onboarding flows using **Whatshub**, **MSG91 / Twilio SMS**, **OneSignal** push notifications, and **APIClub KYC** verification.
 
-**Tech Stack**
+Built automated communication and onboarding workflows.
 
-`Node.js` `React.js` `MySQL` `Cron Jobs`
+**Integrations**
 
-🔗 Live Demo: [Add your live demo link]
-📂 Repository: [Add your GitHub repo link]
+- WhatsApp APIs
+- Twilio
+- MSG91
+- OneSignal
+- APIClub KYC
+
+---
+
+# 💡 Core Skills
+
+- Laravel Development
+- PHP Development
+- React Development
+- REST API Development
+- Backend Development
+- Full Stack Development
+- MySQL Database Design
+- API Integration
+- Payment Gateway Integration
+- Performance Optimization
+- Clean Code
+- Problem Solving
+
+---
+
+# 🌱 Currently Learning
+
+- AI Agents
+- Docker
+- NestJS
+- TypeScript
+- Prompt Engineering
+- RAG Systems
+- MCP
+- n8n
+- Backend Architecture
+- System Design
+- Cloud Technologies
+- Microservices
+- AI-Powered SaaS Development
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Become an AI-Powered Full Stack Engineer
+- 🤖 Build AI SaaS Products
+- 🌍 Contribute to Open Source
+- ☁️ Learn Cloud & DevOps
+- 🏗 Master Backend Architecture
+- 📈 Build Scalable Systems
+- 💼 Grow as a Software Engineer
+- 🧠 Never Stop Learning
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saran-bkm&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saran-bkm&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=saran-bkm&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saran-bkm&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -98,7 +236,9 @@ Automated customer notifications and onboarding flows using **Whatshub**, **MSG9
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saran-bkm&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=saran-bkm&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -106,7 +246,9 @@ Automated customer notifications and onboarding flows using **Whatshub**, **MSG9
 # 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saran-bkm&theme=tokyo-night"/>
+
 </p>
 
 ---
@@ -114,56 +256,39 @@ Automated customer notifications and onboarding flows using **Whatshub**, **MSG9
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saran-bkm&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=saran-bkm&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 🛠 Currently Working On
+# 💭 My Philosophy
 
-- 🚀 Building full-stack web applications with real-world third-party integrations.
-- 🌱 Learning the advanced React ecosystem.
-- ☁️ Exploring cloud deployment and DevOps.
-- 📱 Improving responsive UI/UX design.
+> **"Always learn from your mistakes. Every bug teaches a lesson, every challenge builds experience, and every failure is an opportunity to grow. Like Tony Stark, stay curious, embrace innovation, and never stop learning something new."**
 
----
-
-# 📚 Currently Learning
-
-- Next.js
-- TypeScript
-- Docker
-- AWS
-- System Design
-- Backend Architecture
-
----
-
-# 🎯 Goals for 2026
-
-- ✅ Contribute to Open Source
-- ✅ Build SaaS Applications
-- ✅ Master Full Stack Development
-- ✅ Learn Cloud Computing
-- ✅ Grow My Developer Portfolio
-
----
-
-# 💡 Favorite Quote
-
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
+— **Saran V**
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=saran-bkm&label=Profile+Views&color=0e75b6&style=flat"/>
+
+<img src="https://komarev.com/ghpvc/?username=saran-bkm&label=Profile%20Views&color=0e75b6&style=flat"/>
+
 </p>
 
 ---
 
 <h3 align="center">
+
 ⭐ Thanks for visiting my profile! ⭐
+
 </h3>
+
 <p align="center">
-If you like my work, consider giving a ⭐ to my repositories and connecting with me.
+
+If you enjoy my work, consider giving a ⭐ to my repositories and connecting with me.
+
+Let's build intelligent software and shape the future together. 🚀
+
 </p>

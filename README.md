@@ -78,22 +78,42 @@ I'm passionate about backend engineering, API integrations, scalable software ar
 
 # 🚀 Professional Experience
 
-## Software Developer
+## Software Developer — Connective Links Technology
+*03/2026 – Present | Chennai*
 
 Currently contributing to the development of a **Multi-Tenant Salon POS SaaS Platform** with multilingual support and secure payment gateway integrations.
 
 ### Responsibilities
 
-- Frontend Development
-- Backend Development
-- REST API Development
-- SaaS Feature Development
-- Database Design
-- Performance Optimization
-- Production Support
+- Own backend development for core platform modules, from design to deployment
+- Build and maintain REST APIs powering the SaaS platform
+- Drive development of new SaaS features from requirement to release
+- Implement and manage secure payment gateway integrations
+- Design and structure the MySQL database for scalability
+- Profile and optimize performance across the application stack
+- Own production support, troubleshooting and resolving live issues
 
 ---
 
+## Senior Web Developer — Alabtechnology Pvt Ltd
+*09/2023 – 10/2025 | Chennai*
+ 
+- **Food POS System with Third-Party Order Integration** — Built APIs connecting store partners and customer apps for seamless real-time data exchange; integrated Rista APIs for real-time order placement and synchronization with Swiggy and Zomato
+- **Whatshub – Automation Notification Engine** — Integrated Whatshub across multiple web apps to automate invoice alerts, order status updates, and plan expiry notifications via WhatsApp, Email (SMTP), and Cron Jobs
+- **On-Demand Services Platform** — Developed a scalable platform for real-time service booking, scheduling, and user management with secure payments, SMS/OTP verification, and live tracking; built REST APIs for customer, store partner, and delivery partner apps
+- **EVVehicle** — Implemented driver onboarding with real-time KYC verification, integrating APIClub KYC for identity/document checks alongside profile creation and approval workflows
+- **Urban Services Management System** — Owned maintenance, bug fixes, and minor enhancements to keep the system stable and running smoothly
+---
+ 
+## Junior Web Developer — Santhila Databot Pvt Ltd
+*10/2022 – 03/2023 | Erode*
+ 
+- **Billing Software** — Maintained the billing system, fixing bugs in invoice generation, tax calculation, and billing records
+- **Attendance Management (Manual Flow)** — Handled attendance entry, updates, validation, and related bug fixes to keep records accurate
+  
+---
+
+# 🚀 Currently Working On
 ### Highlights
 
 - 🏢 Multi-Tenant SaaS Architecture
@@ -103,53 +123,6 @@ Currently contributing to the development of a **Multi-Tenant Salon POS SaaS Pla
 - 🔗 Third-Party API Integrations
 - 📊 Billing, Inventory & Reports
 - ⚡ Performance Optimization
-
----
-
-# 🚀 Featured Projects
-
-## 🏪 POS & Billing System
-
-Built a complete retail POS system with attendance management, billing, reporting, and payment integration.
-
-**Integrations**
-
-- Razorpay
-- Paytm
-- Rista POS
-- Shiprocket
-
-**Tech**
-
-Laravel • PHP • MySQL • jQuery
-
----
-
-## 🚚 On-Demand Delivery Platform
-
-Developed an order and logistics management platform integrated with multiple delivery providers.
-
-**Integrations**
-
-- Shiprocket
-- Porter
-- Dunzo
-- Swiggy
-- Zomato
-
----
-
-## 💬 WhatsApp Automation & KYC Platform
-
-Built automated communication and onboarding workflows.
-
-**Integrations**
-
-- WhatsApp APIs
-- Twilio
-- MSG91
-- OneSignal
-- APIClub KYC
 
 ---
 
@@ -170,6 +143,10 @@ Built automated communication and onboarding workflows.
 - Multi-Tenant Architecture
 - Multi-Language Support
 - Third-Party API Integration
+- Cron Jobs
+- VPS Hosting
+- Hostinger
+- SMTP
 
 ---
 

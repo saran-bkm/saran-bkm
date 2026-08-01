@@ -12,9 +12,7 @@
 
 # 👨‍💻 About Me
 
-I'm a **Software Developer** with **3+ years of professional experience** building scalable SaaS products and business applications.
-
-Currently, I'm contributing to the development of a **Multi-Tenant Salon POS SaaS Platform** with multilingual support, secure payment gateway integrations, and modern business management features.
+I'm a **Software Developer** with **3+ years of professional experience** building scalable products and business applications.
 
 I'm passionate about backend engineering, API integrations, scalable software architecture, and AI-powered full stack applications.
 
@@ -86,20 +84,15 @@ Currently contributing to the development of a **Multi-Tenant Salon POS SaaS Pla
 
 ### Responsibilities
 
+- Frontend Development
 - Backend Development
 - REST API Development
 - SaaS Feature Development
-- Payment Gateway Integration
-- Third-Party API Integration
 - Database Design
 - Performance Optimization
 - Production Support
 
 ---
-
-# 🚀 Currently Working On
-
-I'm currently contributing to the development of a **Multi-Tenant Salon POS SaaS Platform** for salon businesses.
 
 ### Highlights
 
@@ -124,6 +117,7 @@ Built a complete retail POS system with attendance management, billing, reportin
 - Razorpay
 - Paytm
 - Rista POS
+- Shiprocket
 
 **Tech**
 
